@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "flight_number": "123",
+      "passengers": [
+        { "name": "Mohammad", "corona_status": false },
+        { "name": "John", "corona_status": false }
+      ]
+    },
+    {
+      "flight_number": "512",
+      "passengers": [
+        { "name": "Sara", "corona_status": false },
+        { "name": "Jackson", "corona_status": true }
+      ]
+    },
+    {
+      "flight_number": "982",
+      "passengers": [
+        { "name": "Khaled", "corona_status": false },
+        { "name": "Sona", "corona_status": false }
+      ]
+    },
+    {
+      "flight_number": "032"
+    }
+  ]
+}
